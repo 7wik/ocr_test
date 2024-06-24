@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "southern-waters-425700-f8",
+  "private_key_id": "96a71a640a0c77504a878b0f7b4dc4ab760bc5c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDC0gBZN9ygu7Lm\n+jP22lqJi7u0gvA/pHaKxkZR8sSZmV3H5OzMvDso/zXxyf0n5ao0JObcqWbz+F/Q\nrVr6tAnPQQe+QYfvxV87/U2SOtNV/rYLcIkMOIED9D8XMNONWZjeX6fB6dPG5Rey\n2/bG0fsMG9fX/fiIQq3hn6V9WEYxAjrmgg6/8V/M9ZvUplWzeDIwh96ugcBxAMwx\nKbDYW67y9fP3iEMvbB2uCTA8kdv2Ao5I1Lzfglof+KvkM83uyzZbnnMUProjfXb0\nqk3/VPlWmdcnc9bOuMK7rGEa9CxGT4WJMp8FOansPl8MfXQZLzXw2h3gR2HP5ytm\nCN/s1dtVAgMBAAECggEABCeBPWXNDRpjirxcHk/yrUsvAf7my5ygsH3g4v93xMS5\n9LjDeewroMisaE8D2HVzxy/gQmVUXjB2Lpd7wKvVJ7e9yAdStECzsq5ImK0rc4J+\ndEj+iyWrTp/HNqHiaPm3okpM4/wt+WhKNJSvMvcoUM5JMIBoa9NsLMsANueKe6IE\nc3Bt/+t48MWEaHEjp+jeT5zGUb2Fim1pQP3VrF9Q0TF4sud3w06SnOqHYdpnmmFH\nUZvuKOppTTrGhWuFQm2KNb6lrO5aR/IhbE/nU55mwxNGeEgzkR1a4s/LwUol+1OA\ngKcHJ0OgCVsuPbFFsrpYkymb7b6fnKMEMh6DrIEAwQKBgQD7Jb9Sj7GvCtJMegST\nyG0QryLE7kIPdPMvDNy1IhxWzq2DxiZsotsOKqunBDprjOwEXaxBEv7TzojJBq7J\nOVtm2uQEwFbTSExSjJPsM+zrhh57qusVgBlOYpT6Liclc5xzIG65NqK35q+Rbmdb\nYS2+qkWNm/DR1/4SKIkabsWZNQKBgQDGlaSFWjP+BHVX+J6gHJcihDf1S2gIMItW\nLPxaGwAz3p684NeYTsWmLyqOXvDdK3fdYSy9OU/rIp6NX8GHJTdF4Rv9vyez4FZa\nRfSPIOlnZU/vNs0cSrLfNJq7oc38BRQB/Gf5iZHaTYJrox8XthL/A4BOEpgTuMey\nuUsNY4+doQKBgDhWHlW50ATQ652mHVK9OeHtN2Jvg7gN5uMeAoBLN4otcHTHxSTH\nX1YNMlYTt7sacHMGRDaQuULv6HUXn6uZxywKW+3I63EXna9Cw4fPmgy3GC1riLJY\n+tQ/fuWj5roa9fRJSS0Y2WVhRO7dkifIY8eKUHHUki+wQNj36NFaGc8lAoGAWM9B\nhXXCvL5HsDD618YRfRk+YU/41XjIR6DUtoNOwuOzf+rZ4D6SO/DqCkPBWlf/Qh0c\nQf+okxKnb7g8N3FYV8MFnqRnYBVa6QJSDdR9LYVsiyGp9xYdCp9e97yz/xpSSVUV\nNs7kUInLYtHPrO37btqk/cVpB6DihjZBr1owNyECgYEAnDO0fGoJQOODncaVYbnm\nlAG+KNy0zbbXO1p+FNRq1YQw2oHU47V1ruxE5FjBznZV+wle/7S2EXMI8+Yr4qsM\nGaArp7OfDPb/8iaXBCDb+peU6zynt49sfvuxHAXnJD/CwcxfkpPaZMXrwC0A4hgS\njhTjeITlbDCLxvAXtvMrna8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "satwik@southern-waters-425700-f8.iam.gserviceaccount.com",
+  "client_id": "114088806317207823173",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/satwik%40southern-waters-425700-f8.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
