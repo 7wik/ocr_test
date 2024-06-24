@@ -39,3 +39,5 @@ This project is an OCR (Optical Character Recognition) application built with Fl
     ```
     docker run -d -p 80:8000 ocr-application
     ```
+## Demo
+[This is the link to the demo](http://44.223.253.91/)
