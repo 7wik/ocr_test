@@ -1,0 +1,7 @@
+Flask==3.0.3
+numpy==2.0.0
+Pillow==10.3.0
+protobuf==5.27.1
+frontend
+pymupdf
+google-cloud-vision
